@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navFind"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/title_find" />
+
+    <item
+        android:id="@+id/navWishlist"
+        android:icon="@drawable/ic_featured_play_list_black_24dp"
+        android:title="@string/title_wishlist" />
+
+    <item
+        android:id="@+id/navCalander"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:title="@string/title_calendar" />
+    <item
+        android:id="@+id/navCreate"
+        android:icon="@drawable/ic_create_black_24dp"
+        android:title="@string/title_create" />
+    <item
+        android:id="@+id/navLogout"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/title_logout" />
+
+</menu>

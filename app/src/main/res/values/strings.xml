@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nyanyai</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_find">Find</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_create">Create</string>
+    <string name="title_logout">Logout</string>
+    <string name="login_with">Login With</string>
+    <string name="facebook_app_id">333623434109477</string>
+    <string name="fb_login_protocol_scheme">fb333623434109477</string>
+
+</resources>
